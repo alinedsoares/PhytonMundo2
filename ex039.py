@@ -1,7 +1,7 @@
 from datetime import date
 
 ano_nascimento = int(input('Digite o seu ano de nascimento: '))
-sexo = str(input('Qual o seu sexo M/F? ')).upper()
+sexo = str(input('Qual o seu sexo M/F? ')).upper().strip()
 M = 'masculino'
 F = 'feminino'
 
@@ -19,3 +19,4 @@ elif sexo =='M':
         print('Ainda faltam {} anos para a sua data de alistamento.'.format((ano_atual - 18 - ano_nascimento) * -1))
 else:
     print('Sexo diferente de M ou F')
+    
