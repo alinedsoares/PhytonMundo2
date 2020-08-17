@@ -23,3 +23,14 @@ Exercício Python 040: Crie um programa que leia duas notas de um aluno e calcul
 
 – Média 7.0 ou superior: APROVADO
 
+Exercício Python 041: A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
+
+– Até 9 anos: MIRIM
+
+– Até 14 anos: INFANTIL
+
+– Até 19 anos: JÚNIOR
+
+– Até 25 anos: SÊNIOR
+
+– Acima de 25 anos: MASTER
