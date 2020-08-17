@@ -13,7 +13,7 @@ if idade <= 14:
 	print('INFANTIL.')
 if idade <= 19:
 	print('JUNIOR.')
-if idade <= 22:
+if idade <= 25:
 	print('SÊNIOR.')
 else:
 	print('MASTER.')
